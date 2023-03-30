@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kirara-project-python",
+  "private_key_id": "31f2b5de218ced0960f3b350ae1982ca2092e2d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCz6QJVjcwK72uj\ntGzPuBkQ4HvcjXNbSkVH2ez6yC/9jIYiE19FsUFxye46iK5TpP471pWPzBnSpvOs\nim5suO+NsDaEVKs4E8tm/i5YxamwNlpCHPbMhtYxPwTcC0q3zqBxAgUQnvt7uWjZ\nlaI05ABm6q7ggtNRYhoNqQ/45mnjvpWpjXDtQHhePGbxJWTagwDeVwTpb3xWybmV\njTdXTtqn/Rf/TKkDM3+4OhVEYve3xV7TaGVIIG62Exmhv+EstL6/+uFHB6MmAu9d\n94KTQNO1sKlBkkeU0+E1bhS84lBPhRA5s/fMZRSvjwrZlnjjHWhTEDyZfET7YeSi\npvvak0pRAgMBAAECggEAE4cbn0CsYJV7OAIp+2PuqJPNLfPWjRajLXjcjZ30A4/g\nsUssAKsMQPcbmhPi5CZZCBKzGjAbr286rMQ71yY9rkHtsPBlw0j2v3+gdTdDQ2Kq\n6lkteqa6Eg9WjjHVktzlMk73UMYI4vWNiWyB9j63QnR/tdPNbxx4Wno6xxfvb24+\nROi6TksPzRm+85v7RbkcXj9qUvclV499CoTJqTKYjyH0eF2LJF3is4lEFaO9g9kU\nAUVYHkGFua8bG60zvaFF09WYLJg4C1YgrvC8WcsO4X1yMl5neGib3LgYrzjiVmBp\nDRXjK3CElvp6Gj0mHYXge5q7GALDUJihXFERuN/ArwKBgQDaYBZ1qL7gpNAIuby1\nULbw7ZAReltdsvPrvHbCUER1852VFgxQPMqk4hPAxfvPGeJgiUQMNjSp2I6F10yk\nxdPZDsQfjPzSb90vXTX75q2OK2uW44FHizUmjkStabdyHqBgED8BvtjPMO4v79im\nBcDgoOw2H1csCIAmNTE0c4vdMwKBgQDS6FVhCmiT4sD0q0rbIViuhr8e9y+ad4pH\noX4YigJlEwC3LAtfT2Dqw5TFyX9/uOkGzmKOmTHIvpw/MOof/tZDq7qCF+JzKLDX\nstO5uNB/seF37pcYzdLCBMkoTG9sOdPP+bQAtimcC7LUA3tXXbHSOj1DgQF5x4AX\nm4bxma7SawKBgB85nByI23pNtr14qYYXm4EJxw7ouwXD3+L2WNjiF1fyVLcLpwkW\nGDfJZ9+pr57maZs6JXPFkHQ01fRHW9s3uloQJXUJeOEyQ6NRJbX2PxzUEpdJwqOT\nQS9ZKnLNagC0ZmQ2DnxWaLP/oB9UoVrj+bdk60G164YNVR2hf36rgvVHAoGBAISp\nXWL/0A4NmH+N6zTwwb5txXPt2cSYoqMx4oX+8UiwbkfJbZHS9UxWH5NVjlxBbFo6\noWW+2MDDnLZmxy2+9vlz4IoKCgeTtcDHnEP7CzL3KbJtoh8ZABPIPNubUI7LxP7R\nuzajXoLoHOEdG401wy9QMM7wK4R1R44R5wy7NWrnAoGBAJ/4yfAzL6g/Z+DrcSLK\nzItQbfTAH4HDHocLqj1tJgv1qN+GRcjEy+fKRoy8r3sxQwTz9oZw25sg3PaakcC2\nfxU2swywEhAauXUMZ2oFjoOwsPA68uJpwTC0SRImVYsuXE8BWmqCP1XNGhkMOyZh\n1V1O2hzGxBTP3tAyC+CeLSsd\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-access@kirara-project-python.iam.gserviceaccount.com",
+  "client_id": "109028763565175541739",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-access%40kirara-project-python.iam.gserviceaccount.com"
+}
